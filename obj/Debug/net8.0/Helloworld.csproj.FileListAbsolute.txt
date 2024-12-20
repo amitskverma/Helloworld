@@ -1,0 +1,14 @@
+/Users/amitverma/Documents/Coding/Helloworld/bin/Debug/net8.0/Helloworld
+/Users/amitverma/Documents/Coding/Helloworld/bin/Debug/net8.0/Helloworld.deps.json
+/Users/amitverma/Documents/Coding/Helloworld/bin/Debug/net8.0/Helloworld.runtimeconfig.json
+/Users/amitverma/Documents/Coding/Helloworld/bin/Debug/net8.0/Helloworld.dll
+/Users/amitverma/Documents/Coding/Helloworld/bin/Debug/net8.0/Helloworld.pdb
+/Users/amitverma/Documents/Coding/Helloworld/obj/Debug/net8.0/Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amitverma/Documents/Coding/Helloworld/obj/Debug/net8.0/Helloworld.AssemblyInfoInputs.cache
+/Users/amitverma/Documents/Coding/Helloworld/obj/Debug/net8.0/Helloworld.AssemblyInfo.cs
+/Users/amitverma/Documents/Coding/Helloworld/obj/Debug/net8.0/Helloworld.csproj.CoreCompileInputs.cache
+/Users/amitverma/Documents/Coding/Helloworld/obj/Debug/net8.0/Helloworld.dll
+/Users/amitverma/Documents/Coding/Helloworld/obj/Debug/net8.0/refint/Helloworld.dll
+/Users/amitverma/Documents/Coding/Helloworld/obj/Debug/net8.0/Helloworld.pdb
+/Users/amitverma/Documents/Coding/Helloworld/obj/Debug/net8.0/Helloworld.genruntimeconfig.cache
+/Users/amitverma/Documents/Coding/Helloworld/obj/Debug/net8.0/ref/Helloworld.dll
