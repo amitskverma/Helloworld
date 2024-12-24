@@ -1,53 +1,16 @@
-﻿using System;
+﻿var amit = new List<string> { "amit", "zxse", "ram", "shayam" };
 
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Enter 1st number:");
-        string? a = Console.ReadLine();
-        int number1;
+        // Sort the list alphabetically
+        amit.Sort();
 
-        // Safe conversion with TryParse
-        if (!int.TryParse(a, out number1))
+        // Print each element of the list using a foreach loop
+        Console.WriteLine("Sorted List (Using foreach):");
+        foreach (var name in amit)
         {
-            Console.WriteLine("Invalid input for 1st number.");
-            return;
+            Console.WriteLine(name);
         }
 
-        Console.WriteLine("Enter 2nd number:");
-        string? b = Console.ReadLine();
-        int number2;
-
-        // Safe conversion with TryParse
-        if (!int.TryParse(b, out number2))
-        {
-            Console.WriteLine("Invalid input for 2nd number.");
-            return;
-        }
-
-        Console.WriteLine("Enter the operation (add, sub, multiply):");
-        string? o = Console.ReadLine();
-
-        // Perform the operation
-        if (o == "add")
-        {
-            int result = number1 + number2;
-            Console.WriteLine($"Result: {result}");
-        }
-        else if (o == "sub")
-        {
-            int result = number1 - number2;
-            Console.WriteLine($"Result: {result}");
-        }
-        else if (o == "multiply")
-        {
-            int result = number1 * number2;
-            Console.WriteLine($"Result: {result}");
-        }
-        else
-        {
-            Console.WriteLine("Invalid operation.");
-        }
-    }
-}
+        // Alternatively, you can join the list into a single string and print it
+        Console.WriteLine("\nSorted List (Using string.Join):");
+        Console.WriteLine(string.Join(", ", amit)); // Join elements with commas
+   
